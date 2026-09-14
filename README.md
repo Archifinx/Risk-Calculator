@@ -18,10 +18,9 @@ An Excel-based **risk assessment and decision-support tool** that uses weighted 
 
 Built a practical Excel model to convert financial and real-estate risk data into **clear, actionable insights**.
 
-## 📁 File
+## 📁 File 
 
-`Goldman Sachs Forage.xlsx`
-
+[📊 View Excel Project](./Goldman%20Sachs%20Forage.xlsx)
 ---
 
 **👤 Author:** Archifinx
